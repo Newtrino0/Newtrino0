@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Arce Acosta</h1>
 <h3 align="center">A recently graduated scholar</h3>
 
+![](https://img.shields.io/badge/Stata-000000?style=for-the-badge&logo=Stata&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=#276DC3)
