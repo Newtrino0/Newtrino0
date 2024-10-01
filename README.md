@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Arce Acosta</h1>
 <h3 align="center">A recently graduated scholar</h3>
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=GitHub&logoColor=white)]
+![<Python>](https://img.shields.io/badge/<>-<000000>?style=for-the-badge&logo=<Python>&logoColor=<3776AB>)
 
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
