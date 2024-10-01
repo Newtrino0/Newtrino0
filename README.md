@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario Arce Acosta</h1>
 <h3 align="center">A recently graduated scholar</h3>
 
+![github](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
 
 - 📫 How to reach me **mario.arce1615@gmail.com**
