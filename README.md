@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
+- 👨‍💻 All of my general projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
 
 - 📫 How to reach me **mario.arce1615@gmail.com**
 
