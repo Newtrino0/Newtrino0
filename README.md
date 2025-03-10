@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Arce Acosta</h1>
-<h3 align="center">A recently graduated scholar</h3>
+<h3 align="center">Statistical analyst freelancer</h3>
 
 ![](https://img.shields.io/badge/Stata-000000?style=for-the-badge&logo=Stata&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
