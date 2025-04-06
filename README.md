@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my general projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
+
 
 
 
