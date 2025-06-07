@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mario Arce Acosta</h1>
 <h3 align="center">Statistical analyst freelancer</h3>
 
+- 👨‍💻 All of my general projects are available at [https://sites.google.com/view/consultantmario/home](https://sites.google.com/view/consultantmario/home)
+
 ![](https://img.shields.io/badge/Stata-000000?style=for-the-badge&logo=Stata&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
